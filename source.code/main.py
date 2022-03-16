@@ -64,7 +64,7 @@ for link in soup.find_all('a',
     join_link_str = str(join_link_get)
 
 try:
-    print(RPC.update(state="Playing In A Squad", details="in a lobby (NULL of NULL)", large_image = "large_image", large_text="Ready or Not", buttons = [{"label": "Join Squad", "url": join_link_str}, {"label": "View Page", "url": "https://github.com/Zurek0x/Ready_Or_Not_Better-Presence"}]))  # Set the presence
+    print(RPC.update(state="Playing In A Squad", details="in a lobby (NULL of NULL)", large_image = "logo_28", large_text="Ready or Not", buttons = [{"label": "Join Squad", "url": join_link_str}, {"label": "View Page", "url": "https://github.com/Zurek0x/Ready_Or_Not_Better-Presence"}]))  # Set the presence
 except:
     print("[!] An error has occured!")
     print("[!] Check the profile link in (config.ini) and set it to your profile link!")
