@@ -5,6 +5,11 @@ A better discord presence for Ready Or Not with lots of features!
 > * Working Buttons for Quick Join
 > * Customizable Options And Configs
 
+# Update-Log
+> Version 1.0
+> * Published To Github under Commit to main
+> * Added Appache License (Copyright License)
+
 # Usage
 ```
 WINDOWS >>
