@@ -1,6 +1,6 @@
 # Ready or Not Better Discord Rich Presence!
 A better discord presence for Ready Or Not with lots of features!
-
+![alt text](https://github.com/Zurek0x/Ready_Or_Not_Better-Presence/{media}/header.jpg)
 # Features
 > * Working Buttons for Quick Join
 > * Customizable Options And Configs
