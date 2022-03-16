@@ -4,6 +4,7 @@ A better discord presence for Ready Or Not with lots of features!
 # Features
 > * Working Buttons for Quick Join
 > * Customizable Options And Configs
+> * Error Handling
 
 # Update-Log
 > Version 1.1 [Pre-Release]
