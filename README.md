@@ -33,6 +33,8 @@ LINUX/Source >>
 3. Done,
 ```
 
+![alt text](https://raw.githubusercontent.com/Zurek0x/Ready_Or_Not_Better-Presence/main/%7Bmedia%7D/preview.png)
+
 # LICENSE
 
                                  Apache License
