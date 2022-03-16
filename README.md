@@ -6,6 +6,9 @@ A better discord presence for Ready Or Not with lots of features!
 > * Customizable Options And Configs
 
 # Update-Log
+> Version 1.1
+> * Changed (readme.md)
+> * Added media images to (readme.md)
 > Version 1.0
 > * Published To Github under Commit to main
 > * Added Appache License (Copyright License)
