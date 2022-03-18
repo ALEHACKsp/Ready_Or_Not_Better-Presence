@@ -35,6 +35,26 @@ LINUX/Source >>
 [ requests , pathlib , bs4 ]
 2. Run [ main.py ] with your python IDE or terminal
 3. Done,
+
+How To Compile To EXE >>
+[Requirements]
+- Python 3+
+- Wheel, (pip install wheel)
+1. uninstall any type of (pyinstaller) module or dependency from pip
+(pip uninstall pyinstaller)
+2. download/archive the project from github
+3. extract and open the root folder
+4. open the [ {compiler-p3} ] Folder
+5. run the setup file using the following terminal/cmd commands
+(python setup.py install)
+or
+(python3 setup.py install)
+6. Let it install
+7. Go back to the root folder (using terminal or cmd) and go into [ source.code ] folder
+8. run command commands
+(pyinstaller --onefile main.py) [ To compile to 1 EXE ]
+(pyinstaller main.py) [ To compile to whole archive with dependencies ]
+9. After compiling open the [ Dist ] Folder and there is your file! ( If you used --onefile argument )
 ```
 
 ![alt text](https://raw.githubusercontent.com/Zurek0x/Ready_Or_Not_Better-Presence/main/%7Bmedia%7D/preview.png)
