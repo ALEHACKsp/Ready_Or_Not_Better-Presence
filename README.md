@@ -7,11 +7,14 @@ A better discord presence for Ready Or Not with lots of features!
 > * Error Handling
 
 # Update-Log
+> Version 1.4 [Non-File-Update]
+> * Updated (readme.md) file
+> * Added compiler to source project
 > Version 1.3
 > * Fixed flagged as false posotive
 > * Updated dependecy archive (Faster loading times)
 >
-> Version 1.1 [Pre-Release]
+> Version 1.1 [Non-File-Update]
 > * Changed (readme.md)
 > * Added media images to (readme.md)
 > 
@@ -26,8 +29,10 @@ A better discord presence for Ready Or Not with lots of features!
 WINDOWS >>
 1. Archive or download the project
 2. Open [ {RON_Presence} ] Folder
-3. Open [ compiled.exe ] Folder
-4. Run [ better_presence.exe ]
+3. Run [ better_presence.exe ]
+4. A new file called [ config.ini ] will be created
+5. Edit the [ config.ini ] file and replace the current steam profile link to your profile link
+6. Once done re-run the [ better_presence.exe ] and it should be done!
 
 LINUX/Source >>
 1. Download python modules
@@ -61,6 +66,11 @@ or
 
 # DISCLAMER
 Me and my program are not affiliated with the Ready Or Not Game or Development Team or VOID Interactive and or Team17, I have never worked with Ready or Not development team or VOID Interactive or Team17, This is a fan project that is a modification of the Ready or Not Discord Rich Presence, By no means is this against Ready Or Not Terms of Service or Modding Guidelines or discord Terms of Service or Discord Rich Presence Guidelines.
+
+# KNOWN ISSUES
+> Known Issues
+> * [DEV ISSUE] Presence will say " in a lobby (NULL of NULL) " or " in a game (??? of ???) " NOT A BUG
+> * [DEV ISSUE] Program on first launch will output a error if steam link is incorrect or doesn't exist
 
 # LICENSE
 
