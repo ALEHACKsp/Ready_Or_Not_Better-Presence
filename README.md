@@ -67,6 +67,11 @@ or
 # DISCLAMER
 Me and my program are not affiliated with the Ready Or Not Game or Development Team or VOID Interactive and or Team17, I have never worked with Ready or Not development team or VOID Interactive or Team17, This is a fan project that is a modification of the Ready or Not Discord Rich Presence, By no means is this against Ready Or Not Terms of Service or Modding Guidelines or discord Terms of Service or Discord Rich Presence Guidelines.
 
+# KNOWN ISSUES
+> Known Issues
+> * [DEV ISSUE] Presence will say " in a lobby (NULL of NULL) " or " in a game (??? of ???) " NOT A BUG
+> * [DEV ISSUE] Program on first launch will output a error if steam link is incorrect or doesn't exist
+
 # LICENSE
 
                                  Apache License
