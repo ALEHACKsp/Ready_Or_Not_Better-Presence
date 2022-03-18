@@ -26,8 +26,10 @@ A better discord presence for Ready Or Not with lots of features!
 WINDOWS >>
 1. Archive or download the project
 2. Open [ {RON_Presence} ] Folder
-3. Open [ compiled.exe ] Folder
-4. Run [ better_presence.exe ]
+3. Run [ better_presence.exe ]
+4. A new file called [ config.ini ] will be created
+5. Edit the [ config.ini ] file and replace the current steam profile link to your profile link
+6. Once done re-run the [ better_presence.exe ] and it should be done!
 
 LINUX/Source >>
 1. Download python modules
