@@ -7,6 +7,10 @@ A better discord presence for Ready Or Not with lots of features!
 > * Error Handling
 
 # Update-Log
+> Version 1.3
+> * Fixed flagged as false posotive
+> * Updated dependecy archive (Faster loading times)
+>
 > Version 1.1 [Pre-Release]
 > * Changed (readme.md)
 > * Added media images to (readme.md)
